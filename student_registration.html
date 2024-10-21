@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html data-bs-theme="light" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Student Registration - Open University of Sri Lanka</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito&amp;display=swap">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body style="font-family: Nunito, sans-serif;">
+    <div class="container text-center">
+        <!-- Logo Section -->
+        <div class="my-4">
+            <img src="path_to_your_logo" alt="University Logo" class="img-fluid" style="max-width: 200px;">
+        </div>
+
+        <!-- Registration Form Section -->
+        <h2>Student Registration</h2>
+        <form id="registration-form" class="mb-3 row g-3 justify-content-center">
+            <!-- Full Name -->
+            <div class="col-md-5">
+                <input class="form-control" type="text" placeholder="FULL NAME" required>
+            </div>
+            <!-- Email -->
+            <div class="col-md-5">
+                <input class="form-control" type="email" placeholder="EMAIL" required>
+            </div>
+
+            <!-- Password -->
+            <div class="col-md-5 position-relative">
+                <input class="form-control" type="password" placeholder="PASSWORD" required>
+            </div>
+            <!-- Confirm Password -->
+            <div class="col-md-5 position-relative">
+                <input class="form-control" type="password" placeholder="CONFIRM PASSWORD" required>
+            </div>
+
+            <!-- S Number -->
+            <div class="col-md-5">
+                <input class="form-control" type="text" placeholder="S NUMBER" required>
+            </div>
+
+            <!-- Address -->
+            <div class="col-md-5">
+                <input class="form-control" type="text" placeholder="ADDRESS" required>
+            </div>
+
+            <!-- Gender -->
+            <div class="col-md-5 d-flex justify-content-start align-items-center">
+                <label class="me-3">GENDER:</label>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="gender" id="male" value="male" required>
+                    <label class="form-check-label" for="male">Male</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="gender" id="female" value="female" required>
+                    <label class="form-check-label" for="female">Female</label>
+                </div>
+            </div>
+
+            <!-- Distance to Hostel -->
+            <div class="col-md-5">
+                <input class="form-control" type="text" placeholder="DISTANCE TO HOSTEL" required>
+            </div>
+
+            <!-- Sign Up Button -->
+            <div class="col-md-12">
+                <button class="btn btn-warning" type="submit" style="background-color: #f67549; border-color: #f67549; color: white;">SIGN UP</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>
