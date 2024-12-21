@@ -13,6 +13,9 @@
         <mxCell id="UIj85bmuPRxPEiiB4Lvx-3" value="Warden" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="620" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="82veBIiKG0TLpPmEvj1Y-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="210" height="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
