@@ -7,7 +7,7 @@
         <mxCell id="UIj85bmuPRxPEiiB4Lvx-1" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UIj85bmuPRxPEiiB4Lvx-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="UIj85bmuPRxPEiiB4Lvx-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="150" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UIj85bmuPRxPEiiB4Lvx-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
