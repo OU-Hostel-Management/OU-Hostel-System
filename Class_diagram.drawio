@@ -1,23 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="mfKQeAgKKAbTyCFcK2X0">
-    <mxGraphModel dx="690" dy="370" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1840" dy="985" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CfteJ3jjgMxTNjzR0p3d-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Room&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ roomId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ roomType: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ availability: Boolean&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ price: Double&lt;br/&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;updateAvailability(&lt;font style=&quot;font-size: 7px;&quot;&gt;roomId: String, status: Boolean)&lt;/font&gt;: void&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getRoomDetails&lt;font style=&quot;font-size: 7px;&quot;&gt;(roomId: String)&lt;/font&gt;: Room&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="194" y="962" width="293" height="146" as="geometry" />
         </mxCell>
+        <mxCell id="fh5S2sE65CgztwGZ4W-D-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="CfteJ3jjgMxTNjzR0p3d-5" target="CfteJ3jjgMxTNjzR0p3d-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CfteJ3jjgMxTNjzR0p3d-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;b&gt;Booking&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;bookingId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ roomId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ studentId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ checkInDate: Date&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ checkOutDate: Date&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ status: String&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;createBooking&lt;font style=&quot;font-size: 7px;&quot;&gt;(studentId: String, roomId: String, checkInDate: Date, checkOutDate: Date)&lt;/font&gt;: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cancelBooking&lt;font style=&quot;font-size: 7px;&quot;&gt;(bookingId: String)&lt;/font&gt;: void&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getBookingDetails&lt;font style=&quot;font-size: 7px;&quot;&gt;(bookingId: String)&lt;/font&gt;: Booking&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="658" y="962" width="293" height="202" as="geometry" />
         </mxCell>
         <mxCell id="CfteJ3jjgMxTNjzR0p3d-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Payment&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ paymentId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ bookingId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ studentId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ amount: Double&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ paymentDate: Date&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ status: String&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;processPayment&lt;font style=&quot;font-size: 7px;&quot;&gt;(bookingId: String, amount: Double)&lt;/font&gt;: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ verifyPaymentStatus&lt;font style=&quot;font-size: 7px;&quot;&gt;(paymentId: String)&lt;/font&gt;: String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="962" width="293" height="169" as="geometry" />
+          <mxGeometry x="1202" y="978.5" width="293" height="169" as="geometry" />
         </mxCell>
         <mxCell id="CfteJ3jjgMxTNjzR0p3d-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Feedback&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;feedbackId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ studentId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ message: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ date: Date&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;submitFeedback&lt;font style=&quot;font-size: 7px;&quot;&gt;(studentId: String, message: String)&lt;/font&gt;: void&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ viewFeedback(): List&amp;lt;Feedback&amp;gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1675" y="981" width="293" height="142" as="geometry" />
         </mxCell>
         <mxCell id="CfteJ3jjgMxTNjzR0p3d-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Notification&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;notificationId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ message: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ recipientId: String&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ date: Date&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;sendNotification&lt;font style=&quot;font-size: 7px;&quot;&gt;(recipientId: String, message: String)&lt;/font&gt;: void&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ viewNotifications&lt;font style=&quot;font-size: 7px;&quot;&gt;(userId: String)&lt;/font&gt;: List&amp;lt;Notification&amp;gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="724" y="1425" width="293" height="169" as="geometry" />
+          <mxGeometry x="543" y="1600" width="293" height="169" as="geometry" />
         </mxCell>
         <mxCell id="fh5S2sE65CgztwGZ4W-D-4" value="" style="group;flipV=0;flipH=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="673" y="216" width="993" height="511" as="geometry" />
@@ -69,14 +72,6 @@
             <Array as="points">
               <mxPoint x="819" y="904" />
               <mxPoint x="819" y="904" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fh5S2sE65CgztwGZ4W-D-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="CfteJ3jjgMxTNjzR0p3d-3" target="CfteJ3jjgMxTNjzR0p3d-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="819" y="767" />
-              <mxPoint x="1296" y="767" />
             </Array>
           </mxGeometry>
         </mxCell>
