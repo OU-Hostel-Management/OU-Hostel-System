@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="a8UAsYUJJ_rxlhREEHtc">
-    <mxGraphModel dx="3450" dy="1848" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1971" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,6 +172,9 @@
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-70" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Log Into Dashboard&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-62">
           <mxGeometry x="236" y="317" width="258.67" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-72" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Click on Personal Info&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-62">
+          <mxGeometry x="224.65999999999985" y="505" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-63" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3649" y="106" width="1500" height="2090" as="geometry" />
