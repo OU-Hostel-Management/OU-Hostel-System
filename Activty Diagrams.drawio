@@ -347,7 +347,7 @@
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-169" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Go to Make a Payment&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
           <mxGeometry x="212.16" y="489" width="263.09" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-170" target="IPqHcb7CeHi4oXEtAHNm-171">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-170" target="IPqHcb7CeHi4oXEtAHNm-171">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="347" y="932" />
@@ -360,7 +360,7 @@
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-171" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Redirect to Stripe Payment Page&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
           <mxGeometry x="978.0015000000003" y="895.9976555023923" width="256.0833" height="72.03062200956937" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-172" target="IPqHcb7CeHi4oXEtAHNm-184">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-172" target="IPqHcb7CeHi4oXEtAHNm-184">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="361" y="1237" />
@@ -370,8 +370,8 @@
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-172" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Complete Payment on Stripe&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
           <mxGeometry x="219.17000000000002" y="1047" width="284.42" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-173" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Log Into Dashboard&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
-          <mxGeometry x="235.0015000000003" y="1397.9976555023923" width="256.0833" height="72.03062200956937" as="geometry" />
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-173" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Display Payment Confirmation&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
+          <mxGeometry x="251.0015000000003" y="1454.9976555023923" width="256.0833" height="72.03062200956937" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-174" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Calculate Payment Fee Based on Days&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
           <mxGeometry x="955" y="311.51" width="287.98" height="81" as="geometry" />
@@ -386,19 +386,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-175" target="IPqHcb7CeHi4oXEtAHNm-170">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-175" target="IPqHcb7CeHi4oXEtAHNm-170">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-183" target="IPqHcb7CeHi4oXEtAHNm-173">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1116" y="1491" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-183" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Notify Admin/Warden of Payment&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
           <mxGeometry x="978.88" y="1381" width="273.76" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-184" target="IPqHcb7CeHi4oXEtAHNm-183">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-184" target="IPqHcb7CeHi4oXEtAHNm-183">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-184" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Update Payment Status in Database&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
           <mxGeometry x="970" y="1196" width="291.53" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-171" target="IPqHcb7CeHi4oXEtAHNm-172">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-171" target="IPqHcb7CeHi4oXEtAHNm-172">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1106" y="1087" />
