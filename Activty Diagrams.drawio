@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0" version="25.0.3">
   <diagram name="Page-1" id="a8UAsYUJJ_rxlhREEHtc">
-    <mxGraphModel dx="2509" dy="1344" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1840" dy="985" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,19 +35,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-10" value="Click &quot;Register&quot; link" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="192.66999999999996" y="1284" width="258.67" height="97" as="geometry" />
+          <mxGeometry x="192.66999999999996" y="1228" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-11" target="IPqHcb7CeHi4oXEtAHNm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-11" value="Fill registration form" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="192.66999999999996" y="1532" width="258.67" height="97" as="geometry" />
+          <mxGeometry x="192.66999999999996" y="1447" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-12" target="IPqHcb7CeHi4oXEtAHNm-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-12" value="Submit" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="192.65999999999994" y="1780" width="258.67" height="97" as="geometry" />
+          <mxGeometry x="192.66999999999993" y="1648" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-13" target="IPqHcb7CeHi4oXEtAHNm-10">
           <mxGeometry relative="1" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-14" value="Validate and save data" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="1001" y="1796" width="258.67" height="97" as="geometry" />
+          <mxGeometry x="907" y="1648" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-16" target="IPqHcb7CeHi4oXEtAHNm-37">
           <mxGeometry relative="1" as="geometry">
@@ -70,10 +70,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-16" value="Authenticate user" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1125" width="258.67" height="97" as="geometry" />
+          <mxGeometry x="913" y="1189" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-17" value="Redirect to respective dashboard." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="735" y="1326" width="258.67" height="97" as="geometry" />
+          <mxGeometry x="519" y="1377" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-23" target="IPqHcb7CeHi4oXEtAHNm-17">
           <mxGeometry relative="1" as="geometry" />
@@ -82,13 +82,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-23" value="Log In" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="735" y="1140" width="258.67" height="97" as="geometry" />
+          <mxGeometry x="519" y="1189" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-48.5;entryPerimeter=0;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-13" target="IPqHcb7CeHi4oXEtAHNm-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-31" value="Registration Successful" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="1016" y="1951" width="258.67" height="97" as="geometry" />
+          <mxGeometry x="907" y="1903" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-31" target="IPqHcb7CeHi4oXEtAHNm-9">
           <mxGeometry relative="1" as="geometry">
@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-37" value="Succeed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1147.67" y="1500" width="220" height="201" as="geometry" />
+          <mxGeometry x="932.33" y="1325" width="220" height="201" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=244.45950000000002;entryDy=14.210500000000003;entryPerimeter=0;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-37" target="IPqHcb7CeHi4oXEtAHNm-9">
           <mxGeometry relative="1" as="geometry">
