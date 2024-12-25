@@ -40,13 +40,13 @@
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-11" target="IPqHcb7CeHi4oXEtAHNm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-11" value="Fill registration form" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-11" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Fill registration form&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="192.66999999999996" y="1447" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-12" target="IPqHcb7CeHi4oXEtAHNm-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-12" value="Submit" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-12" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Submit&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="192.66999999999993" y="1648" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-13" target="IPqHcb7CeHi4oXEtAHNm-10">
@@ -58,7 +58,7 @@
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-14" target="IPqHcb7CeHi4oXEtAHNm-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-14" value="Validate and save data" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-14" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Validate and save data&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="907" y="1648" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-16" target="IPqHcb7CeHi4oXEtAHNm-37">
@@ -69,10 +69,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-16" value="Authenticate user" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-16" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Authenticate user&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="913" y="1189" width="258.67" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-17" value="Redirect to respective dashboard." style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-17" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Redirect to respective dashboard.&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="519" y="1377" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-23" target="IPqHcb7CeHi4oXEtAHNm-17">
@@ -81,16 +81,16 @@
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-23" target="IPqHcb7CeHi4oXEtAHNm-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-23" value="Log In" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-23" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Log In&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="519" y="1189" width="258.67" height="97" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-48.5;entryPerimeter=0;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-13" target="IPqHcb7CeHi4oXEtAHNm-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-31" value="Registration Successful" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-31" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Registration Successful&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="907" y="1903" width="258.67" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.968;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IPqHcb7CeHi4oXEtAHNm-9">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.968;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-31" target="IPqHcb7CeHi4oXEtAHNm-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1222.67" y="1949.5" as="sourcePoint" />
             <mxPoint x="496.95852000000014" y="781.989" as="targetPoint" />
@@ -104,7 +104,7 @@
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-37" target="IPqHcb7CeHi4oXEtAHNm-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IPqHcb7CeHi4oXEtAHNm-37" value="Succeed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-37" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Succeed&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="932.33" y="1325" width="220" height="201" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPqHcb7CeHi4oXEtAHNm-37" target="IPqHcb7CeHi4oXEtAHNm-9">
