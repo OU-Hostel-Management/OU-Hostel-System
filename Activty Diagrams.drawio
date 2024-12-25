@@ -177,7 +177,7 @@
           <mxGeometry x="251.85000000000002" y="294.27272727272725" width="258.67" height="73.19090909090909" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-90" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Click on Room Booking&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-63">
-          <mxGeometry x="251.85000000000002" y="463.99636363636364" width="258.67" height="73.19090909090909" as="geometry" />
+          <mxGeometry x="250.00000000000003" y="446.99636363636364" width="258.67" height="73.19090909090909" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-92" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Load Room Booking Page&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-63">
           <mxGeometry x="962.9999999999998" y="463.99545454545455" width="258.67" height="73.19090909090909" as="geometry" />
