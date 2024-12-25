@@ -304,7 +304,7 @@
           <mxGeometry x="5317" y="91" width="1500" height="2090" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-133" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
-          <mxGeometry x="-14" y="-30" width="1500" height="2090" as="geometry" />
+          <mxGeometry x="-6" y="-20" width="1500" height="2090" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-134" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-133" target="IPqHcb7CeHi4oXEtAHNm-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -386,7 +386,14 @@
           <mxGeometry x="219.17150000000038" y="1404.9976555023923" width="256.0833" height="72.03062200956937" as="geometry" />
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-184" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Update Payment Status in Database&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="IPqHcb7CeHi4oXEtAHNm-139">
-          <mxGeometry x="965" y="1178" width="291.53" height="82" as="geometry" />
+          <mxGeometry x="986.9" y="1178" width="291.53" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="IPqHcb7CeHi4oXEtAHNm-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IPqHcb7CeHi4oXEtAHNm-139" source="IPqHcb7CeHi4oXEtAHNm-171" target="IPqHcb7CeHi4oXEtAHNm-172">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1106" y="1087" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IPqHcb7CeHi4oXEtAHNm-140" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="7031" y="93" width="1500" height="2090" as="geometry" />
